@@ -1,0 +1,40 @@
+Meeting Location
+================
+
+Category: Forensics
+Value: 200
+Challenge ID: 46
+Solves: 288
+Author/Attribution: snzodiac
+Challenge URL: https://boroctf.com/challenges#Meeting%20Location-46
+API URL: https://boroctf.com/api/v1/challenges/46
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I've got the network traffic from a well-known athlete. We don't know who the athlete is yet, 
+but we'll address that after we confirm where they are meeting the other party. You know he will pay 
+big bucks if we can get pictures of this athlete and why they are there for him. They're definitely 
+talking in code about a secret meeting place in these packets. Take a look when you have a second. 
+If you can figure out where they are heading, there's 200 boroPoints in it for you. This could be 
+the end of all our suffering if we figure this out.
+
+Files
+-----
+- Source: https://boroctf.com/files/f2c7ad083702b5d29cb6569cc4844660/meeting.pcap
+  Local: C:\Users\yevge\BoroCTF\_attachments\046 - Meeting Location\meeting.pcap
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

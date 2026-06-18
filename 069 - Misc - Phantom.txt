@@ -1,0 +1,39 @@
+Phantom
+=======
+
+Category: Misc
+Value: 200
+Challenge ID: 116
+Solves: 145
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Phantom-116
+API URL: https://boroctf.com/api/v1/challenges/116
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We managed to tap the line between Apex Renewable Energy's DMZ and their internal database segment.
+
+Find out what is really governing Apex Energy's internal routing and recover the exfiltrated flag.
+
+Do you get the gist of this challenge?
+
+Files
+-----
+- Source: https://boroctf.com/files/56e5b3fe4ac7806742e199acaee524cb/Phantom.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\116 - Phantom\Phantom.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

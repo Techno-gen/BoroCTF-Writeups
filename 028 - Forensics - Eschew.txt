@@ -1,0 +1,35 @@
+Eschew
+======
+
+Category: Forensics
+Value: 100
+Challenge ID: 21
+Solves: 248
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Eschew-21
+API URL: https://boroctf.com/api/v1/challenges/21
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My image is flipped and flopped :(.
+
+Files
+-----
+- Source: https://boroctf.com/files/43d67a965e465301af80981deccf4926/eschew.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\021 - Eschew\eschew.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

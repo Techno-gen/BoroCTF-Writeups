@@ -1,0 +1,33 @@
+Boro Coin 2
+===========
+
+Category: Crypto
+Value: 100
+Challenge ID: 32
+Challenge URL: https://boroctf.com/challenges#Boro%20Coin%202-32
+API URL: https://boroctf.com/api/v1/challenges/32
+Detail status: read-protected
+Detail note: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+Discovered from: teams/524
+
+Description
+-----------
+Description is read-protected for this chained/locked challenge.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

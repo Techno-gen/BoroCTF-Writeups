@@ -1,0 +1,40 @@
+AI Slop
+=======
+
+Category: Misc
+Value: 100
+Challenge ID: 40
+Solves: 311
+Author/Attribution: ForeverFlames
+Max attempts: 5
+Challenge URL: https://boroctf.com/challenges#AI%20Slop-40
+API URL: https://boroctf.com/api/v1/challenges/40
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What is this AI slop??? Which AI made this!!!
+
+format: boroCTF{ai_in_lowercase}
+
+WARNING ONLY 5 ATTEMPTS.
+
+Files
+-----
+- Source: https://boroctf.com/files/5aa0f47e256f31bec294c95a6ea240c3/slop.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\040 - AI Slop\slop.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

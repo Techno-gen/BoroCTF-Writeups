@@ -1,0 +1,14 @@
+Title: Satoshi's Secret
+Category: OSINT
+Flag: boroCTF{the_dyatlov_pass_incident}
+
+Summary
+If Satoshi Hunt wasn't hard enough, this one kicks it up a notch. To find the flag, you have to go to a neighboring user profile @soulfullybinded that interacted with Satoshi cryptically, and examine the gemini-generated profile picture for a date. This date will bring you to the Dyatlov Pass Incident.
+
+In his few posts, Satoshi has also interacted with another account by the name of @soulfullybinded at https://x.com/soulfullybinded. Soulbinded posted an image containing Brainfuck code, which will come into play later. Satoshi responds with 
+Factum est. Nunc me in pace relinquite.
+Which is basically along the lines of "It is done. Now leave me in peace."
+
+If you go to soulbinded's profile, among his cryptic bio(which will also be important later) you will see his profile picture of some cryptid in a forest. If you download the image and look up the date in the bottom left corner, you will find the incident.
+
+Flag: boroCTF{the_dyatlov_pass_incident}

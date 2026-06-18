@@ -1,0 +1,38 @@
+Geopro 1
+========
+
+Category: Geosint
+Value: 100
+Challenge ID: 125
+Solves: 349
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Geopro%201-125
+API URL: https://boroctf.com/api/v1/challenges/125
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Find the city this image was taken in.
+
+flag format: boroCTF{city_name}
+(Replace any space with an underscore)
+
+Files
+-----
+- Source: https://boroctf.com/files/0c4729ac11896de76bd43221603a7627/geosint.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\125 - Geopro 1\geosint.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

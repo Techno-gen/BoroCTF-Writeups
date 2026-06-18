@@ -1,0 +1,38 @@
+Qwerty!
+=======
+
+Category: Crypto
+Value: 200
+Challenge ID: 38
+Solves: 182
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Qwerty!-38
+API URL: https://boroctf.com/api/v1/challenges/38
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I am so very sorry.... I made a lot of typos :(
+
+I should rot in hell 😭
+
+?AEAGJ8NJF,\0[d5JcE-
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,48 @@
+It's So Easy
+============
+
+Category: OSINT
+Value: 200
+Challenge ID: 133
+Solves: 17
+Author/Attribution: Solarity
+Max attempts: 3
+Challenge URL: https://boroctf.com/challenges#It's%20So%20Easy-133
+API URL: https://boroctf.com/api/v1/challenges/133
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I met this guy at a concert a while back, and he was SO COOL!
+
+I wish I could have gotten his contact info, but you know it's been YEARS! There's no way I find him again, right?!
+
+One of my core memories was of him taking a photo of the singer playing piano during one of my favorite songs during November Rain! He did mention he wanted to start a social media account some time.
+
+If you could find him, I'd really appreciate it!!
+
+Find the venue city and date of the concert.
+
+THREE ATTEMPTS ONLY.
+
+Flag format: boroCTF{VenueCity_mm_dd_yyyy}
+
+Files
+-----
+- Source: https://boroctf.com/files/b58cd3c91f4a9b54223d40469ad30b7d/image0.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\133 - It's So Easy\image0.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

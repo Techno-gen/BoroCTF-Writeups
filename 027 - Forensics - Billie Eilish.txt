@@ -1,0 +1,35 @@
+Billie Eilish
+=============
+
+Category: Forensics
+Value: 100
+Challenge ID: 74
+Solves: 295
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Billie%20Eilish-74
+API URL: https://boroctf.com/api/v1/challenges/74
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Although she is so beautiful, its whats on the inside that matters.
+
+Files
+-----
+- Source: https://boroctf.com/files/3784e81f17c3390fd3a6e034af86399f/billie.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\074 - Billie Eilish\billie.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

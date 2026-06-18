@@ -1,0 +1,42 @@
+Klaud Code
+==========
+
+Category: web
+Value: 300
+Challenge ID: 93
+Solves: 61
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Klaud%20Code-93
+API URL: https://boroctf.com/api/v1/challenges/93
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://9zkv6e70cc16.boroctf.com/
+
+Description
+-----------
+Klaud is the hot new AI company, offering their new MAX subscription for only $2,000/month!
+
+You're stuck on the Free tier and broke, and your usage dies right after you say "hi".
+
+Can you find a way to get Klaud Max for free?
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

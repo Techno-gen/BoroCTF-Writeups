@@ -1,0 +1,39 @@
+File Me to the Moon
+===================
+
+Category: Forensics
+Value: 100
+Challenge ID: 86
+Solves: 466
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#File%20Me%20to%20the%20Moon-86
+API URL: https://boroctf.com/api/v1/challenges/86
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Frank sinatra accidentally deleted the file extension on one of his files!!!
+
+What file extension is it supposed to be???
+
+> boroCTF{file_extension}
+
+Files
+-----
+- Source: https://boroctf.com/files/6e42fc7d910fa8c949b570ad3d1af937/superfile
+  Local: C:\Users\yevge\BoroCTF\_attachments\086 - File Me to the Moon\superfile
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

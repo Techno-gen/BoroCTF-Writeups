@@ -1,0 +1,45 @@
+﻿Title: OmegaCode
+Category: Rev
+Flag: boroCTF{greek_alphabet_is_over_i_promise_on_franklin}
+
+Summary
+OmegaCode was a semi-reversing/programming challenge. Each of the examples in examples.zip defined enough of the programming language to guess the syntax, almost exactly like alpahcode. The first generated solutions handled the visible gauntlet shape, but the hidden case ended input earlier, so the final solver needed to handle both 6-line and 9-line EOF positions. This was less about reversing and honestly more about just learning the language and how it translated into python.
+
+OmegaCode is a tiny stack-based esolang chall. From the Fibonacci and square example programs, we learned the fundamentals:
+
+zm a        define/set variable a
+<encoded>   value for a
+
+zz di a     push variable a
+zz fi       read input
+zz do a     store into variable a
+zz fo       print
+zz dp       pop
+zz ma       add
+zz mm       multiply
+zz eq       equality check
+ex          exit
+
+The weird trick was ZZ do X; X acted like the instruction pointer. So if you computed a line number and stored it in X, you could jump, allowing conditional branching even though the lang never implemented an If.
+In plain English, our program needed to do:
+print "Input your code, line by line. Type EOF to finish:"
+read submitted lines
+print "===YOUR CODE===:"
+print "1 | <line 1>"
+print "2 | <line 2>"
+...
+
+At first, the visible tests all behaved like there were 9 input lines, so a simple 9-line echo worked. But the hidden test stopped earlier, giving only 6 real lines, then EOF. Our final solver had to handle both of these cases:
+read lines
+if the 7th read is EOF:
+    print only lines 1 through 6
+else:
+    continue and print lines 1 through 9
+
+The generated OmegaCode did that by comparing the read value to "EOF", turning the result into a Boolean 0 or 1, then computing a jump target using the do command discussed earlier:
+target = (is_eof * jump_to_short_output) + continue_location
+zz do X
+
+Instead of writing the whole OmegaCode program and pulling my hair out, I wrote a python generator that emitted valid OmegaCode and patched jump constants after it knew where each label went.
+
+Final flag: boroCTF{greek_alphabet_is_over_i_promise_on_franklin}

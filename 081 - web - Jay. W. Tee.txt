@@ -1,0 +1,38 @@
+Jay. W. Tee
+===========
+
+Category: web
+Value: 200
+Challenge ID: 92
+Solves: 185
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Jay.%20W.%20Tee-92
+API URL: https://boroctf.com/api/v1/challenges/92
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://lt560zwl9uv6.boroctf.com/
+
+Description
+-----------
+Mr. Jay W. Tee seems to think his website is pretty secure.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

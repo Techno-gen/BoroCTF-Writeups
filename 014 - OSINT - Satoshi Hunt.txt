@@ -1,0 +1,36 @@
+Satoshi Hunt
+============
+
+Category: OSINT
+Value: 100
+Challenge ID: 70
+Solves: 111
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Satoshi%20Hunt-70
+API URL: https://boroctf.com/api/v1/challenges/70
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Satoshi Nakamuda always goes on adventures... Where has he gone now...
+
+flag format: boroCTF{location}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

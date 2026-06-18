@@ -1,0 +1,37 @@
+Nature's Delight
+================
+
+Category: Misc
+Value: 100
+Challenge ID: 43
+Solves: 243
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Nature's%20Delight-43
+API URL: https://boroctf.com/api/v1/challenges/43
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I found this tag stuck on the back of my shirt! My friend must have put it... but who even makes these?
+
+flag format: boroCTF{tag_maker}
+
+Files
+-----
+- Source: https://boroctf.com/files/022d454a4c9947b1b74c73e1b096537e/weirdtag.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\043 - Nature's Delight\weirdtag.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

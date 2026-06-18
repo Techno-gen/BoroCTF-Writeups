@@ -1,0 +1,35 @@
+Hidden but definitely not
+=========================
+
+Category: Rev
+Value: 100
+Challenge ID: 15
+Solves: 462
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Hidden%20but%20definitely%20not-15
+API URL: https://boroctf.com/api/v1/challenges/15
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+The most trite challenge concept.
+
+Files
+-----
+- Source: https://boroctf.com/files/d06f99a5ba98ba985b706763a532a1f7/password_protected
+  Local: C:\Users\yevge\BoroCTF\_attachments\015 - Hidden but definitely not\password_protected
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

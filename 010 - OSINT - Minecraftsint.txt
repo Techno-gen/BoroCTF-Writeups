@@ -1,0 +1,41 @@
+Minecraftsint
+=============
+
+Category: OSINT
+Value: 100
+Challenge ID: 123
+Solves: 194
+Author/Attribution: ForeverFlames
+Max attempts: 3
+Challenge URL: https://boroctf.com/challenges#Minecraftsint-123
+API URL: https://boroctf.com/api/v1/challenges/123
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I was tryna hug these green guys when I noticed how beautiful this biome is. What biome am I in?
+
+(CAREFUL ONLY 3 ATTEMPTS)
+
+(If necessary, seperate any spaces with an underscore)
+Example flag: boroCTF{minecraft_plains}
+
+Files
+-----
+- Source: https://boroctf.com/files/73186fa3779793a1b1c4d20c3bee0b39/biome.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\123 - Minecraftsint\biome.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

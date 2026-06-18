@@ -1,0 +1,36 @@
+Flipper's Dilemma
+=================
+
+Category: Crypto
+Value: 100
+Challenge ID: 78
+Solves: 328
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Flipper's%20Dilemma-78
+API URL: https://boroctf.com/api/v1/challenges/78
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Why do we flip a coin when we have to make a hard choice? Maybe the flipping here isn't so random. I flipped it once yet still 0x15 times.
+
+wzgzVASnS4|eE${J%`>h
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

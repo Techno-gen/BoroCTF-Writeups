@@ -1,0 +1,38 @@
+Fast Reactions
+==============
+
+Category: Pwn
+Value: 100
+Challenge ID: 18
+Solves: 216
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Fast%20Reactions-18
+API URL: https://boroctf.com/api/v1/challenges/18
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc tnkemaq46125.boroctf.com 56354
+
+Description
+-----------
+Need higher WPM? Try monkeytype.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

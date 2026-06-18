@@ -1,0 +1,38 @@
+Geopro 3
+========
+
+Category: Geosint
+Value: 200
+Challenge ID: 127
+Solves: 241
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Geopro%203-127
+API URL: https://boroctf.com/api/v1/challenges/127
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What is the really tall building I'm looking at...
+
+flag format: boroCTF{building_name}
+(Replace any space with an underscore)
+
+Files
+-----
+- Source: https://boroctf.com/files/6bfc2510bd13285cdbda9d38b687f99e/geosint3.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\127 - Geopro 3\geosint3.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

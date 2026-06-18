@@ -1,0 +1,36 @@
+Flight
+======
+
+Category: Crypto
+Value: 100
+Challenge ID: 80
+Solves: 267
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Flight-80
+API URL: https://boroctf.com/api/v1/challenges/80
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+dark, darker, yet darker.
+
+♌︎□︎❒︎□︎👍︎❄︎☞︎❀︎⬥︎✋︎■︎♑︎📂︎■︎🕯︎♉︎✏︎⧫︎❝︎
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

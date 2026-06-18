@@ -1,0 +1,35 @@
+Chronos
+=======
+
+Category: Forensics
+Value: 200
+Challenge ID: 112
+Solves: 181
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Chronos-112
+API URL: https://boroctf.com/api/v1/challenges/112
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Would you rather posess the powers of Chronos, the God of Time or posess the powers of a bilingual?
+
+Files
+-----
+- Source: https://boroctf.com/files/0cfeb2753bdf00b5c7d7c536b63d2ce8/chronos.pcap
+  Local: C:\Users\yevge\BoroCTF\_attachments\112 - Chronos\chronos.pcap
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

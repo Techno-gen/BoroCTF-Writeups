@@ -1,0 +1,33 @@
+boro-senpai 2
+=============
+
+Category: web
+Value: 200
+Challenge ID: 95
+Challenge URL: https://boroctf.com/challenges#boro-senpai%202-95
+API URL: https://boroctf.com/api/v1/challenges/95
+Detail status: read-protected
+Detail note: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+Discovered from: teams/524
+
+Description
+-----------
+Description is read-protected for this chained/locked challenge.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

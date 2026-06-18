@@ -1,0 +1,38 @@
+Geopro 2
+========
+
+Category: Geosint
+Value: 200
+Challenge ID: 122
+Solves: 104
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Geopro%202-122
+API URL: https://boroctf.com/api/v1/challenges/122
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What is the name of the nearest restaurant??? I'm hungry!
+
+flag format: boroCTF{foreverflames_pizzeria}
+(Replace any space with an underscore)
+
+Files
+-----
+- Source: https://boroctf.com/files/9996a8674c954bfdb62c1628a3426233/geosint2.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\122 - Geopro 2\geosint2.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,41 @@
+Free Challenge
+==============
+
+Category: Pwn
+Value: 300
+Challenge ID: 110
+Solves: 96
+Author/Attribution: nulled
+Challenge URL: https://boroctf.com/challenges#Free%20Challenge-110
+API URL: https://boroctf.com/api/v1/challenges/110
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc k7Xm2pQw9R.boroctf.com 62831
+
+Description
+-----------
+This challenge is pretty free!
+
+> Do not trust him - Franklin
+
+Files
+-----
+- Source: https://boroctf.com/files/7a37953b634e398fcca9825a58097be8/free.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\110 - Free Challenge\free.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

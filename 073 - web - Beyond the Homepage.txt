@@ -1,0 +1,38 @@
+Beyond the Homepage
+===================
+
+Category: web
+Value: 100
+Challenge ID: 11
+Solves: 667
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Beyond%20the%20Homepage-11
+API URL: https://boroctf.com/api/v1/challenges/11
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://6ox3t3alzl51.boroctf.com/
+
+Description
+-----------
+There's more to what you see...
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

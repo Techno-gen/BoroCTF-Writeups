@@ -1,0 +1,4 @@
+Before new encoding:
+VXNlcjE6IEhleSwgSSB0aGluayB0aGUgQm9ybyB0ZWFtIGlzIG9udG8gdXMhClVzZXIyOiBObyBXYXkhIFRoZXkncmUgZ29pbmcgdG8gc2VuZCB0aGUgQ1RGIHBhcnRpY2lwYW50cyBhZnRlciB1cyEKVXNlcjM6IEl0J2xsIGJlIG9rYXksIHdlJ2xsIG1vdmUgdG8gYW5vdGhlciBiYXNlIGVuY29kaW5nIQ==
+After New encoding:
+j2_1+iZB_6AveF[p/Uxg,WT[#F]4pE&m:%gZ6=0{8!Z%F.0Dj2_1rjZB!8O;R@RnqM_1:WGk$yV%J_;mz2gZY^rN$F90axFl]UgZk>;N%y60;mYiSP8=SH)S<Ry*yCrbVu_15Wy{L%;EU,fr&A2N|ir}XxI(pBZ%w<d9P

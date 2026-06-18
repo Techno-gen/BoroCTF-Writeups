@@ -1,0 +1,19 @@
+﻿Title: My Mayor Muslim...
+Category: web
+Flag: boroCTF{KN!CK5_1N_5555!!!!!}
+
+Summary
+A race-condition challenge in a basketball-shot web app. Normal play could get the score close, but a single final request was reset or blocked by the refs. Sending many concurrent shoot requests at the right moment would let one response observe the winning score before the reset won.
+
+Steps
+1. Identify the useful API routes, including /api/reset and /api/shoot.
+2. Play normally until the score reaches 44.
+3. Wait for the shot cooldown at 44 so the next wave of requests is eligible.
+4. Send many concurrent POST requests to /api/shoot.
+5. Because the score update and reset/check logic race each other, some responses can return score 46 and include the flag before the reset takes effect.
+
+Basically send 10 requests just as the score reaches 44, allowing the flag to slip through.
+
+Key Findings
+- Vuln: race condition on POST /api/shoot
+- Final flag: boroCTF{KN!CK5_1N_5555!!!!!}

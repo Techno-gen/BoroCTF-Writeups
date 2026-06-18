@@ -1,0 +1,36 @@
+tuff ash challenge
+==================
+
+Category: Misc
+Value: 100
+Challenge ID: 141
+Solves: 67
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#tuff%20ash%20challenge-141
+API URL: https://boroctf.com/api/v1/challenges/141
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+A lexander is a master at hiding his secrets! Oh... nevermind. Well at least you can't find his favorite one of them all! At least... not E veryone can...
+
+https://docs.google.com/spreadsheets/d/1rivkwPvDg_qCnFHfgLdLlKXPEgZpzNPflt7BaGP9Nd8/edit?usp=sharing
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

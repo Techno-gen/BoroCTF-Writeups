@@ -1,0 +1,42 @@
+Satoshi: A Memory of The Past
+=============================
+
+Category: Forensics
+Value: 100
+Challenge ID: 138
+Solves: 260
+Author/Attribution: ForeverFlames (yours truly)
+Challenge URL: https://boroctf.com/challenges#Satoshi%3A%20A%20Memory%20of%20The%20Past-138
+API URL: https://boroctf.com/api/v1/challenges/138
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+All these crimes. Its not him. His soul is gone. It took his soul and trapped it inside the cache. I still hear his pulse....
+Please don't lose his memory. I can't live without my beloved Satoshi.
+
+> Satoshi's wife, Yukiko Nakamuda 
+
+(Note: the flag is already wrapped in boroCTF{} when you find it)
+
+**UNRELATED TO THE OSINT CHALLENGES *(other than the plot)***
+
+Files
+-----
+- Source: https://boroctf.com/files/b4210f70fa51507d36952eeab7858fe7/Forgotten.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\138 - Satoshi- A Memory of The Past\Forgotten.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,37 @@
+Looking through Windows
+=======================
+
+Category: Forensics
+Value: 200
+Challenge ID: 59
+Solves: 184
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Looking%20through%20Windows-59
+API URL: https://boroctf.com/api/v1/challenges/59
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My friend thinks he can hide his secrets from me by deleting them...
+
+Who's gonna tell him?
+
+Files
+-----
+- Source: https://boroctf.com/files/5cea8d0335935555eca8f924d0566b8b/challenge.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\059 - Looking through Windows\challenge.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

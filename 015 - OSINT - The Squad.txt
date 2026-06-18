@@ -1,0 +1,34 @@
+The Squad
+=========
+
+Category: OSINT
+Value: 100
+Challenge ID: 115
+Solves: 511
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#The%20Squad-115
+API URL: https://boroctf.com/api/v1/challenges/115
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What is the name of the team that organized boroCTF?
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,34 @@
+What's even the POINT?
+======================
+
+Category: Misc
+Value: 200
+Challenge ID: 64
+Solves: 20
+Author/Attribution: Goldstein
+Challenge URL: https://boroctf.com/challenges#What's%20even%20the%20POINT%3F-64
+API URL: https://boroctf.com/api/v1/challenges/64
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Find the ROOT of the problem, no need to look at BINARIES, no need for any RELATIONAL comparisons, no need to make a TREE, don't event count any BYTES, just play a board game.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

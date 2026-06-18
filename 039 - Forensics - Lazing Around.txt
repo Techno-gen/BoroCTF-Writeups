@@ -1,0 +1,35 @@
+Lazing Around
+=============
+
+Category: Forensics
+Value: 200
+Challenge ID: 24
+Solves: 167
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Lazing%20Around-24
+API URL: https://boroctf.com/api/v1/challenges/24
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Get back to work!
+
+Files
+-----
+- Source: https://boroctf.com/files/678023453741a70dc57b9352923eb4ad/chal
+  Local: C:\Users\yevge\BoroCTF\_attachments\024 - Lazing Around\chal
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

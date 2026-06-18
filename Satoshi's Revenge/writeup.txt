@@ -1,0 +1,33 @@
+﻿Title: Satoshi's Revenge
+Category: OSINT
+Flag: boroCTF{WTHNPAGE}
+
+Summary
+This one was fun. The clue says: "My soul is empty, my name too. 1228 is where I lay, yet I keep on pushing." The key was not a normal user profile. 1228 pointed to a CTFd team page whose name was the empty-set symbol. That team linked to an X/Twitter profile, and its public solve list hid the message.
+
+Initially, I started out thinking about Satoshi Nakamoto, since I assumed this challenge was completely unrelated. After I had exhausted all possible leads relating to the blockchain and block height 1228, I began probing the internet for key phrases like "1228," "Satoshi," and "soul." As a final hail mary, I transitioned to probing the boroCTF site itself.
+
+I eventually landed on this page:
+https://boroctf.com/teams/1228
+
+This team had a ∅(empty-set, hence "empty soul") symbol name, and, by some miracle, led back to the https://x.com/SatoshiNakamuda page from the earlier Satoshi challenges created by ForeverFlames. 
+
+The flag was hidden in the first letter of the solved challenges, from top to bottom:
+
+
+Beyond the Homepage
+OmegaCode
+Retinal Burn
+Oops...
+Coming Together
+The Shattered Needle
+Flipper's Dilemma
+Where there's smoke, there's fire.
+Two words, One problem
+Hidden but definitely not
+Nature's Delight
+Phantom
+Amazing
+Grep'n it
+
+Flag: boroCTF{WITHNPAGE}

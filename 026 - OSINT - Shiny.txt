@@ -1,0 +1,43 @@
+Shiny
+=====
+
+Category: OSINT
+Value: 300
+Challenge ID: 50
+Solves: 41
+Author/Attribution: ForeverFlames
+Max attempts: 10
+Challenge URL: https://boroctf.com/challenges#Shiny-50
+API URL: https://boroctf.com/api/v1/challenges/50
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+� 140 is NOTHING. oh wait. those aren't hours... Doesn't count that's impossible!
+
+We need to go big or go home! These times are too little
+
+Find the date of mdhdlimv2
+
+Format: boroCTF{6/12/2026}
+
+Format: boroCTF{month/day/year}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

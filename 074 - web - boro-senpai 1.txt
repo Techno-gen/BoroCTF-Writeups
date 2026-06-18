@@ -1,0 +1,38 @@
+boro-senpai 1
+=============
+
+Category: web
+Value: 100
+Challenge ID: 94
+Solves: 540
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#boro-senpai%201-94
+API URL: https://boroctf.com/api/v1/challenges/94
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://w03xj6cjsucj.boroctf.com
+
+Description
+-----------
+Muhahaha! The Organization thinks they can silence me, but I, Hououin Kyouma, have uncovered a lead. My assistant — the self-proclaimed neuroscience prodigy — harbors a secret so embarrassing it could shake the very fabric of her dignity. An old @channel handle. Find it, and her profile is yours. El. Psy. Kongroo.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

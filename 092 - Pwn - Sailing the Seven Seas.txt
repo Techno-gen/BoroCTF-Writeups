@@ -1,0 +1,39 @@
+Sailing the Seven Seas
+======================
+
+Category: Pwn
+Value: 200
+Challenge ID: 60
+Solves: 134
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Sailing%20the%20Seven%20Seas-60
+API URL: https://boroctf.com/api/v1/challenges/60
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc 2vl7azdr4vhf.boroctf.com 28267
+
+Description
+-----------
+Sinbad are you sure about this? What kind of fleet would be able to transverse to the eighth sea?
+
+Files
+-----
+- Source: https://boroctf.com/files/51333bfa6911b9d6073d5e149104d5b8/Seas.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\060 - Sailing the Seven Seas\Seas.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

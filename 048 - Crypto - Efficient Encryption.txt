@@ -1,0 +1,38 @@
+Efficient Encryption
+====================
+
+Category: Crypto
+Value: 100
+Challenge ID: 33
+Solves: 214
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Efficient%20Encryption-33
+API URL: https://boroctf.com/api/v1/challenges/33
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I forgot my flag on the top shelf but i'm too short to reach it :'(. Can you grab it for me? 
+
+*Note* - This challenge does not contain the flag format.
+Example answer: boroCTF{S0lv3d}
+
+Files
+-----
+- Source: https://boroctf.com/files/104375f70bc5abf65ddd0bcdcc0b3dfb/shelf.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\033 - Efficient Encryption\shelf.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

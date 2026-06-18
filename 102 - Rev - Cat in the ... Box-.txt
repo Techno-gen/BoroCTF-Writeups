@@ -1,0 +1,35 @@
+Cat in the ... Box?
+===================
+
+Category: Rev
+Value: 200
+Challenge ID: 82
+Solves: 241
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Cat%20in%20the%20...%20Box%3F-82
+API URL: https://boroctf.com/api/v1/challenges/82
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We love cats over here at boroCTF. We feel like we have a hidden connection to them.
+
+Files
+-----
+- Source: https://boroctf.com/files/a50873cbd64fa1f788d7d93c6c867956/cat
+  Local: C:\Users\yevge\BoroCTF\_attachments\082 - Cat in the ... Box-\cat
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

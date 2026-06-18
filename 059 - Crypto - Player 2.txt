@@ -1,0 +1,39 @@
+Player 2
+========
+
+Category: Crypto
+Value: 300
+Challenge ID: 129
+Solves: 16
+Author/Attribution: Franklin & nulled
+Challenge URL: https://boroctf.com/challenges#Player%202-129
+API URL: https://boroctf.com/api/v1/challenges/129
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+**NOTE: THIS IS A CRYPTO CHALLENGE, THERE IS NOTHING TO DO WITH YOUTUBE OR VIDEO FORENSICS**
+
+https://www.youtube.com/watch?v=dthKN5GNPOU
+
+Flag Format: boroCTF{flag}
+*Note* - No _ between words
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,43 @@
+Jin Sakai
+=========
+
+Category: Pwn
+Value: 100
+Challenge ID: 103
+Solves: 236
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Jin%20Sakai-103
+API URL: https://boroctf.com/api/v1/challenges/103
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc w4owkcjzvv0e.boroctf.com 53217
+
+Description
+-----------
+The Eagle's curse has completely made him go mad...
+
+Once a hero of Tshushima, now a bloodthirsty warrior.
+
+Please put an end to this madness.
+
+Files
+-----
+- Source: https://boroctf.com/files/647df22da01d3ddf22fc50c66ce35915/JinSakai.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\103 - Jin Sakai\JinSakai.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

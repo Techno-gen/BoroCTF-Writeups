@@ -1,0 +1,38 @@
+Kobeni's Dashboard
+==================
+
+Category: web
+Value: 200
+Challenge ID: 56
+Solves: 206
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Kobeni's%20Dashboard-56
+API URL: https://boroctf.com/api/v1/challenges/56
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://sj20riah2597.boroctf.com/
+
+Description
+-----------
+Kobeni's been tasked with cataloging devil sighting evidence through Public Safety's new imaging system, but rumor has it that contract information between the Chainsaw Devil & Denji are buried somewhere in the classified archive. Report back your findings.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

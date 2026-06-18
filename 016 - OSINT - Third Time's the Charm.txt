@@ -1,0 +1,38 @@
+Third Time's the Charm
+======================
+
+Category: OSINT
+Value: 100
+Challenge ID: 106
+Solves: 166
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Third%20Time's%20the%20Charm-106
+API URL: https://boroctf.com/api/v1/challenges/106
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My friend recently found vulnerabilities that got him banned off two platforms.
+
+What's my friend's handle?
+
+Flag Format: boroCTF{user_name}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

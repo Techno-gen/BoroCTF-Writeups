@@ -1,0 +1,35 @@
+Not Your Time
+=============
+
+Category: Rev
+Value: 100
+Challenge ID: 140
+Solves: 293
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Not%20Your%20Time-140
+API URL: https://boroctf.com/api/v1/challenges/140
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+One of the trifecta of bitwise operations.
+
+Files
+-----
+- Source: https://boroctf.com/files/0679ae2a9258bca665948183e92ba32a/chal
+  Local: C:\Users\yevge\BoroCTF\_attachments\140 - Not Your Time\chal
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

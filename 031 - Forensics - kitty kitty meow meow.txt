@@ -1,0 +1,35 @@
+kitty kitty meow meow
+=====================
+
+Category: Forensics
+Value: 100
+Challenge ID: 57
+Solves: 484
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#kitty%20kitty%20meow%20meow-57
+API URL: https://boroctf.com/api/v1/challenges/57
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+aww... so cute!
+
+Files
+-----
+- Source: https://boroctf.com/files/dd7f8ff42c28c218e38d020149078162/meow.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\057 - kitty kitty meow meow\meow.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

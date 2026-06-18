@@ -1,0 +1,35 @@
+Worthful Glory
+==============
+
+Category: Misc
+Value: 200
+Challenge ID: 45
+Solves: 82
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Worthful%20Glory-45
+API URL: https://boroctf.com/api/v1/challenges/45
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+The sysadmin left behind a single photo of the Boro football field. He said the key was a field goal on game day. We need to recover the corrupted log file he hid, unlock it, and find the flag.
+
+Files
+-----
+- Source: https://boroctf.com/files/f17517bb20ff9bb409ffd128d74f4895/football_field.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\045 - Worthful Glory\football_field.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

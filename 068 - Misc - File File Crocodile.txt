@@ -1,0 +1,37 @@
+File File Crocodile
+===================
+
+Category: Misc
+Value: 200
+Challenge ID: 88
+Solves: 275
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#File%20File%20Crocodile-88
+API URL: https://boroctf.com/api/v1/challenges/88
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We managed to snap a picture of the infamous File File Crocodile, but right before the flash went off, he swallowed a locked archive containing our flag! He's a master of disguise and his stomach acid has slightly digested the file signatures.  Interrogating him didn't work as the only word he seemed to know was "croc".
+
+Can you cut him open, perform some surgery, and get our archive back?
+
+Files
+-----
+- Source: https://boroctf.com/files/d5ec5b12ee33c4c76c2fed6e44f56d4d/file_file_crocodile.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\088 - File File Crocodile\file_file_crocodile.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

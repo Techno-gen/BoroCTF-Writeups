@@ -1,0 +1,39 @@
+I Won't Forget
+==============
+
+Category: Misc
+Value: 100
+Challenge ID: 90
+Solves: 110
+Author/Attribution: SolarityPy
+Challenge URL: https://boroctf.com/challenges#I%20Won't%20Forget-90
+API URL: https://boroctf.com/api/v1/challenges/90
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+It seems the Republic tried to silence them, but nothing stays hidden forever.
+
+What is the full name of the author?
+
+Flag format: boroCTF{first_last}
+
+Files
+-----
+- Source: https://boroctf.com/files/890824ceae81fb47bf59adfed1e303d4/report.pdf
+  Local: C:\Users\yevge\BoroCTF\_attachments\090 - I Won't Forget\report.pdf
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

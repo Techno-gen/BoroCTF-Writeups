@@ -1,0 +1,38 @@
+Cracking the Vault
+==================
+
+Category: web
+Value: 100
+Challenge ID: 91
+Solves: 460
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Cracking%20the%20Vault-91
+API URL: https://boroctf.com/api/v1/challenges/91
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://qphi2o7slkwc.boroctf.com/
+
+Description
+-----------
+Apparently this banking system is super secure and would never store the password somewhere in plain sight...
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,35 @@
+Distortion
+==========
+
+Category: Misc
+Value: 100
+Challenge ID: 42
+Solves: 199
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Distortion-42
+API URL: https://boroctf.com/api/v1/challenges/42
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I swear I've seen this logo before... or at least a rendition of it. That's it! The owner gave me money!
+
+Files
+-----
+- Source: https://boroctf.com/files/3cc40215adabd60c48fdea73712a9ccd/Logo.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\042 - Distortion\Logo.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

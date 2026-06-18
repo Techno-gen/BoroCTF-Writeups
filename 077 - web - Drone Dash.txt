@@ -1,0 +1,38 @@
+Drone Dash
+==========
+
+Category: web
+Value: 100
+Challenge ID: 118
+Solves: 409
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Drone%20Dash-118
+API URL: https://boroctf.com/api/v1/challenges/118
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://697vj046dbi3.boroctf.com
+
+Description
+-----------
+Welcome to the neon grid, pilot. Your objective is simple: Land the drone on the pad in under 1.5 seconds.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

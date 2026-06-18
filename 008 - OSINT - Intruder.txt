@@ -1,0 +1,38 @@
+Intruder
+========
+
+Category: OSINT
+Value: 100
+Challenge ID: 148
+Solves: 96
+Challenge URL: https://boroctf.com/challenges#Intruder-148
+API URL: https://boroctf.com/api/v1/challenges/148
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I was talking with my friend Jman and he was telling me about his 21 year old discovery. 
+
+It was very crazy and he told me I was a skeptic, just like justinLife and other people.
+
+Who found this discovery?
+Format: boroCTF{username}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

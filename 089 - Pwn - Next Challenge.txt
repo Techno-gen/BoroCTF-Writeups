@@ -1,0 +1,39 @@
+Next Challenge
+==============
+
+Category: Pwn
+Value: 100
+Challenge ID: 62
+Solves: 413
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Next%20Challenge-62
+API URL: https://boroctf.com/api/v1/challenges/62
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc thww9zyp6ygt.boroctf.com 19350
+
+Description
+-----------
+Psst...I've been hearing some rumors about this special command called nc. I don't know what it is so I have to assume it means Next Challenge ... right??
+Maybe that MAN has more answers.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

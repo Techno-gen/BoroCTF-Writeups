@@ -1,0 +1,41 @@
+Chicken Dinner
+==============
+
+Category: Pwn
+Value: 300
+Challenge ID: 17
+Solves: 87
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Chicken%20Dinner-17
+API URL: https://boroctf.com/api/v1/challenges/17
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc gbdnqumsoif3.boroctf.com 11942
+
+Description
+-----------
+I'm hosting a HUGE dinner party and everyone's invited! Though one condition ... I'm severely allergic to shellfish so no shells at the table. You better be good at using your utensils!
+
+Flag Format: boroCTF{Looks_Good_Tastes_Bad}
+
+Files
+-----
+- Source: https://boroctf.com/files/67b86fd928f0b54f77377c898d6b02b1/dinner.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\017 - Chicken Dinner\dinner.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

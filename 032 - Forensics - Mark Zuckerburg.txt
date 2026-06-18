@@ -1,0 +1,36 @@
+Mark Zuckerburg
+===============
+
+Category: Forensics
+Value: 100
+Challenge ID: 25
+Solves: 283
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Mark%20Zuckerburg-25
+API URL: https://boroctf.com/api/v1/challenges/25
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Mark (from Meta) called me the other day and attached this photo. He told me he needed to remember what model camera he took his picture with.
+Could you help me?
+
+Files
+-----
+- Source: https://boroctf.com/files/4775d3de82a454aa6f8eeee9500f7230/Mark-Zuckerberg.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\025 - Mark Zuckerburg\Mark-Zuckerberg.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,39 @@
+OmegaCode
+=========
+
+Category: Rev
+Value: 300
+Challenge ID: 120
+Solves: 50
+Author/Attribution: nulled
+Challenge URL: https://boroctf.com/challenges#OmegaCode-120
+API URL: https://boroctf.com/api/v1/challenges/120
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc f7k2mXqL9pRwN4sB.boroctf.com 39174
+
+Description
+-----------
+AlphaCode is back.... but now its crazier.
+
+Files
+-----
+- Source: https://boroctf.com/files/cf9c08278deca96daf8ee14c4d407d48/examples.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\120 - OmegaCode\examples.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

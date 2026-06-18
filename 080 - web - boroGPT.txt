@@ -1,0 +1,38 @@
+boroGPT
+=======
+
+Category: web
+Value: 200
+Challenge ID: 137
+Solves: 185
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#boroGPT-137
+API URL: https://boroctf.com/api/v1/challenges/137
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://mx7pk2qw9nr4slvt.boroctf.com/
+
+Description
+-----------
+Introducing boroGPT, boroAI's cutting-edge large language model that will revolutionize the way you think about chatbots! Our engineers have been hard at work building the most secure, scalable, and enterprise-ready AI platform the world has ever seen!
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

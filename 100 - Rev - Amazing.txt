@@ -1,0 +1,36 @@
+Amazing
+=======
+
+Category: Rev
+Value: 200
+Challenge ID: 13
+Solves: 307
+Author/Attribution: Franklin
+Max attempts: 9
+Challenge URL: https://boroctf.com/challenges#Amazing-13
+API URL: https://boroctf.com/api/v1/challenges/13
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Escape is impossible unless you take the right step.
+
+Files
+-----
+- Source: https://boroctf.com/files/ebb9d07dde79f13dcd5361f91fe19da1/challenge.py
+  Local: C:\Users\yevge\BoroCTF\_attachments\013 - Amazing\challenge.py
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

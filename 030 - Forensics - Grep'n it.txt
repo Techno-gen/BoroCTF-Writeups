@@ -1,0 +1,35 @@
+Grep'n it
+=========
+
+Category: Forensics
+Value: 100
+Challenge ID: 23
+Solves: 372
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Grep'n%20it-23
+API URL: https://boroctf.com/api/v1/challenges/23
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+I lost my flag in a stockpile of fake flags :(. Can you help me find it?
+
+Files
+-----
+- Source: https://boroctf.com/files/8a12119a3f3472e62c9b60f8ff8a0057/chal
+  Local: C:\Users\yevge\BoroCTF\_attachments\023 - Grep'n it\chal
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

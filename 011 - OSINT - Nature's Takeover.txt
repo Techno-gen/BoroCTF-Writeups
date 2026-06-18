@@ -1,0 +1,37 @@
+Nature's Takeover
+=================
+
+Category: OSINT
+Value: 100
+Challenge ID: 69
+Solves: 551
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Nature's%20Takeover-69
+API URL: https://boroctf.com/api/v1/challenges/69
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+You can't beat nature. What is this?
+
+Example if the flag was "not the flag": boroCTF{not_the_flag}
+
+Files
+-----
+- Source: https://boroctf.com/files/2569567009469a7dbaea226b00d15b72/nature.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\069 - Nature's Takeover\nature.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,36 @@
+Boro Hero
+=========
+
+Category: OSINT
+Value: 100
+Challenge ID: 48
+Solves: 654
+Author/Attribution: MK
+Challenge URL: https://boroctf.com/challenges#Boro%20Hero-48
+API URL: https://boroctf.com/api/v1/challenges/48
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+This famous Freehold High School alum skipped his graduation and became a best-selling artist.
+
+Flag Format: boroCTF{first_last}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

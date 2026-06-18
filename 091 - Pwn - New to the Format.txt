@@ -1,0 +1,38 @@
+New to the Format
+=================
+
+Category: Pwn
+Value: 200
+Challenge ID: 61
+Solves: 135
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#New%20to%20the%20Format-61
+API URL: https://boroctf.com/api/v1/challenges/61
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc w56ll430yihy.boroctf.com 47845
+
+Description
+-----------
+Sometimes it takes a large % of effort to achieve little. But we all start somewhere, right? The things you learn at the beginning ultimately shape the skills you build in the end.
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

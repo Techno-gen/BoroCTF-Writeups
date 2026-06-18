@@ -1,0 +1,36 @@
+Et Tu, Brute
+============
+
+Category: Crypto
+Value: 100
+Challenge ID: 37
+Solves: 529
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Et%20Tu%2C%20Brute-37
+API URL: https://boroctf.com/api/v1/challenges/37
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Stabbed by his own men. Each stab wound marked how betrayed he was. Can you reverse the damage?
+
+erurFWI{@iu13qgq0pru3}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

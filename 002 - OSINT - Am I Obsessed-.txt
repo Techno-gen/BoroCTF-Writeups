@@ -1,0 +1,46 @@
+Am I Obsessed?
+==============
+
+Category: OSINT
+Value: 100
+Challenge ID: 99
+Solves: 75
+Author/Attribution: ForeverFlames
+Max attempts: 4
+Challenge URL: https://boroctf.com/challenges#Am%20I%20Obsessed%3F-99
+API URL: https://boroctf.com/api/v1/challenges/99
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+There's this actor in a movie I just watched who is so cool. But I can't happen to remember her name...
+
+So I did what any sane person would do,  and I sketched her out and pinned the sketch to my bedroom wall!
+
+I mean, just because you chose this for her, doesn't make it less real, right?
+
+Please find her name... or I'll go crazy.
+
+(Only 4 Attempts)
+
+> Flag format: boroCTF{firstname_lastname}
+
+Files
+-----
+- Source: https://boroctf.com/files/2360d3f355d0e8c04958ea3c29cc6b38/roughsketch.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\099 - Am I Obsessed-\roughsketch.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

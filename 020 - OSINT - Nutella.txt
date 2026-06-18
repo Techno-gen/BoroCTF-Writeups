@@ -1,0 +1,37 @@
+Nutella
+=======
+
+Category: OSINT
+Value: 200
+Challenge ID: 136
+Solves: 172
+Author/Attribution: Solarity (best boroCTF admin)
+Challenge URL: https://boroctf.com/challenges#Nutella-136
+API URL: https://boroctf.com/api/v1/challenges/136
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+This person didn't seem very happy when a bill was introduced making this certain nut the State Nut.
+
+Flag format:
+boroCTF{Solarity_Py_peanut}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,37 @@
+Babel's Vault
+=============
+
+Category: Crypto
+Value: 300
+Challenge ID: 36
+Solves: 191
+Author/Attribution: nulled
+Challenge URL: https://boroctf.com/challenges#Babel's%20Vault-36
+API URL: https://boroctf.com/api/v1/challenges/36
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My friend sent me a random codebase with a Library of Babel implementation. Apparently the author is well known to hide secrets in his code, but I don't see any here.
+
+Files
+-----
+- Source: https://boroctf.com/files/786e4dd52a81a95ae8e1895a6b99e003/babel.py
+  Local: C:\Users\yevge\BoroCTF\_attachments\036 - Babel's Vault\babel.py
+- Source: https://boroctf.com/files/e702c21f6968372811705040601499f0/AUTHORSNOTE.txt
+  Local: C:\Users\yevge\BoroCTF\_attachments\036 - Babel's Vault\AUTHORSNOTE.txt
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

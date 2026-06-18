@@ -1,0 +1,131 @@
+BoroCTF Challenge Archive
+=========================
+
+Archived at: 2026-06-18T06:02:53.000Z
+Total entries: 115
+Full detail entries: 110
+Read-protected/metadata-only entries: 5
+
+Challenges
+----------
+001. [Getting Started] Join the Discord (0) -> 001 - Getting Started - Join the Discord.txt
+002. [OSINT] Am I Obsessed? (100) -> 002 - OSINT - Am I Obsessed-.txt
+003. [OSINT] Boro Hero (100) -> 003 - OSINT - Boro Hero.txt
+004. [OSINT] Far Far Away (100) -> 004 - OSINT - Far Far Away.txt
+005. [OSINT] Fireman (100) -> 005 - OSINT - Fireman.txt
+006. [OSINT] Go Knicks! (100) -> 006 - OSINT - Go Knicks!.txt
+007. [OSINT] Hidden Meaning (100) -> 007 - OSINT - Hidden Meaning.txt
+008. [OSINT] Intruder (100) -> 008 - OSINT - Intruder.txt
+009. [OSINT] Mansion (100) -> 009 - OSINT - Mansion.txt
+010. [OSINT] Minecraftsint (100) -> 010 - OSINT - Minecraftsint.txt
+011. [OSINT] Nature's Takeover (100) -> 011 - OSINT - Nature's Takeover.txt
+012. [OSINT] Oops... (100) -> 012 - OSINT - Oops.txt
+013. [OSINT] Physical Access >> (100) -> 013 - OSINT - Physical Access --.txt
+014. [OSINT] Satoshi Hunt (100) -> 014 - OSINT - Satoshi Hunt.txt
+015. [OSINT] The Squad (100) -> 015 - OSINT - The Squad.txt
+016. [OSINT] Third Time's the Charm (100) -> 016 - OSINT - Third Time's the Charm.txt
+017. [OSINT] A Purpose Beyond Satoshi (200) -> 017 - OSINT - A Purpose Beyond Satoshi.txt
+018. [OSINT] It's So Easy (200) -> 018 - OSINT - It's So Easy.txt
+019. [OSINT] Liminal Memories (200) -> 019 - OSINT - Liminal Memories.txt
+020. [OSINT] Nutella (200) -> 020 - OSINT - Nutella.txt
+021. [OSINT] One Small (13 Year Old Edit) for Mankind (200) -> 021 - OSINT - One Small (13 Year Old Edit) for Mankind.txt
+022. [OSINT] Satoshi's Secret (200) -> 022 - OSINT - Satoshi's Secret.txt
+023. [OSINT] Solarologist (200) -> 023 - OSINT - Solarologist.txt
+024. [OSINT] Where there's smoke, there's fire. (200) -> 024 - OSINT - Where there's smoke, there's fire.txt
+025. [OSINT] Satoshi's Revenge (300) -> 025 - OSINT - Satoshi's Revenge.txt
+026. [OSINT] Shiny (300) -> 026 - OSINT - Shiny.txt
+027. [Forensics] Billie Eilish (100) -> 027 - Forensics - Billie Eilish.txt
+028. [Forensics] Eschew (100) -> 028 - Forensics - Eschew.txt
+029. [Forensics] File Me to the Moon (100) -> 029 - Forensics - File Me to the Moon.txt
+030. [Forensics] Grep'n it (100) -> 030 - Forensics - Grep'n it.txt
+031. [Forensics] kitty kitty meow meow (100) -> 031 - Forensics - kitty kitty meow meow.txt
+032. [Forensics] Mark Zuckerburg (100) -> 032 - Forensics - Mark Zuckerburg.txt
+033. [Forensics] Satoshi: A Memory of The Past (100) -> 033 - Forensics - Satoshi- A Memory of The Past.txt
+034. [Forensics] Silent Sentinel (100) -> 034 - Forensics - Silent Sentinel.txt
+035. [Forensics] The Shattered Needle (100) -> 035 - Forensics - The Shattered Needle.txt
+036. [Forensics] Blackwall Protocol (200) -> 036 - Forensics - Blackwall Protocol.txt
+037. [Forensics] Chronos (200) -> 037 - Forensics - Chronos.txt
+038. [Forensics] File-et Mignon (200) -> 038 - Forensics - File-et Mignon.txt
+039. [Forensics] Lazing Around (200) -> 039 - Forensics - Lazing Around.txt
+040. [Forensics] Listen Close (200) -> 040 - Forensics - Listen Close.txt
+041. [Forensics] Looking through Windows (200) -> 041 - Forensics - Looking through Windows.txt
+042. [Forensics] Meeting Location (200) -> 042 - Forensics - Meeting Location.txt
+043. [Forensics] Retinal Burn (200) -> 043 - Forensics - Retinal Burn.txt
+044. [Forensics] Judgment of Solomon (300) -> 044 - Forensics - Judgment of Solomon.txt
+045. [Crypto] A basic start (100) -> 045 - Crypto - A basic start.txt
+046. [Crypto] Boro Coin 1 (100) -> 046 - Crypto - Boro Coin 1.txt
+047. [Crypto] Boro Coin 2 (100) -> 047 - Crypto - Boro Coin 2.txt
+048. [Crypto] Efficient Encryption (100) -> 048 - Crypto - Efficient Encryption.txt
+049. [Crypto] Et Tu, Brute (100) -> 049 - Crypto - Et Tu, Brute.txt
+050. [Crypto] Flight (100) -> 050 - Crypto - Flight.txt
+051. [Crypto] Flipper's Dilemma (100) -> 051 - Crypto - Flipper's Dilemma.txt
+052. [Crypto] Johnny Boy (100) -> 052 - Crypto - Johnny Boy.txt
+053. [Crypto] Not the Flag (100) -> 053 - Crypto - Not the Flag.txt
+054. [Crypto] So Many Layers (100) -> 054 - Crypto - So Many Layers.txt
+055. [Crypto] Anatomically Incorrect (200) -> 055 - Crypto - Anatomically Incorrect.txt
+056. [Crypto] Disco (200) -> 056 - Crypto - Disco.txt
+057. [Crypto] Qwerty! (200) -> 057 - Crypto - Qwerty!.txt
+058. [Crypto] Babel's Vault (300) -> 058 - Crypto - Babel's Vault.txt
+059. [Crypto] Player 2 (300) -> 059 - Crypto - Player 2.txt
+060. [Misc] AI Slop (100) -> 060 - Misc - AI Slop.txt
+061. [Misc] Distortion (100) -> 061 - Misc - Distortion.txt
+062. [Misc] I Won't Forget (100) -> 062 - Misc - I Won't Forget.txt
+063. [Misc] Its a Simple Challenge Really (100) -> 063 - Misc - Its a Simple Challenge Really.txt
+064. [Misc] Nature's Delight (100) -> 064 - Misc - Nature's Delight.txt
+065. [Misc] tuff ash challenge (100) -> 065 - Misc - tuff ash challenge.txt
+066. [Misc] 64 is life (200) -> 066 - Misc - 64 is life.txt
+067. [Misc] Broken Promise (200) -> 067 - Misc - Broken Promise.txt
+068. [Misc] File File Crocodile (200) -> 068 - Misc - File File Crocodile.txt
+069. [Misc] Phantom (200) -> 069 - Misc - Phantom.txt
+070. [Misc] Planetary Destruction (200) -> 070 - Misc - Planetary Destruction.txt
+071. [Misc] What's even the POINT? (200) -> 071 - Misc - What's even the POINT-.txt
+072. [Misc] Worthful Glory (200) -> 072 - Misc - Worthful Glory.txt
+073. [web] Beyond the Homepage (100) -> 073 - web - Beyond the Homepage.txt
+074. [web] boro-senpai 1 (100) -> 074 - web - boro-senpai 1.txt
+075. [web] Cracking the Vault (100) -> 075 - web - Cracking the Vault.txt
+076. [web] dotdotslashflagtxt (100) -> 076 - web - dotdotslashflagtxt.txt
+077. [web] Drone Dash (100) -> 077 - web - Drone Dash.txt
+078. [web] boro-senpai 2 (200) -> 078 - web - boro-senpai 2.txt
+079. [web] boro-senpai 3 (200) -> 079 - web - boro-senpai 3.txt
+080. [web] boroGPT (200) -> 080 - web - boroGPT.txt
+081. [web] Jay. W. Tee (200) -> 081 - web - Jay. W. Tee.txt
+082. [web] Kobeni's Dashboard (200) -> 082 - web - Kobeni's Dashboard.txt
+083. [web] My Mayor Muslim... (200) -> 083 - web - My Mayor Muslim.txt
+084. [web] NERV (200) -> 084 - web - NERV.txt
+085. [web] Klaud Code (300) -> 085 - web - Klaud Code.txt
+086. [Pwn] Coming Together (100) -> 086 - Pwn - Coming Together.txt
+087. [Pwn] Fast Reactions (100) -> 087 - Pwn - Fast Reactions.txt
+088. [Pwn] Jin Sakai (100) -> 088 - Pwn - Jin Sakai.txt
+089. [Pwn] Next Challenge (100) -> 089 - Pwn - Next Challenge.txt
+090. [Pwn] Mania (200) -> 090 - Pwn - Mania.txt
+091. [Pwn] New to the Format (200) -> 091 - Pwn - New to the Format.txt
+092. [Pwn] Sailing the Seven Seas (200) -> 092 - Pwn - Sailing the Seven Seas.txt
+093. [Pwn] Two words, One problem (200) -> 093 - Pwn - Two words, One problem.txt
+094. [Pwn] Chicken Dinner (300) -> 094 - Pwn - Chicken Dinner.txt
+095. [Pwn] Free Challenge (300) -> 095 - Pwn - Free Challenge.txt
+096. [Pwn] Houston, we have a problem (300) -> 096 - Pwn - Houston, we have a problem.txt
+097. [Rev] George Orwell (100) -> 097 - Rev - George Orwell.txt
+098. [Rev] Hidden but definitely not (100) -> 098 - Rev - Hidden but definitely not.txt
+099. [Rev] Not Your Time (100) -> 099 - Rev - Not Your Time.txt
+100. [Rev] Amazing (200) -> 100 - Rev - Amazing.txt
+101. [Rev] Bike Rack (200) -> 101 - Rev - Bike Rack.txt
+102. [Rev] Cat in the ... Box? (200) -> 102 - Rev - Cat in the ... Box-.txt
+103. [Rev] Franklin (200) -> 103 - Rev - Franklin.txt
+104. [Rev] Perfectly Destructive File (200) -> 104 - Rev - Perfectly Destructive File.txt
+105. [Rev] AlphaCode (300) -> 105 - Rev - AlphaCode.txt
+106. [Rev] OmegaCode (300) -> 106 - Rev - OmegaCode.txt
+107. [Geosint] Geopro 1 (100) -> 107 - Geosint - Geopro 1.txt
+108. [Geosint] Geopro 4 (100) -> 108 - Geosint - Geopro 4.txt
+109. [Geosint] Geopro 5 (100) -> 109 - Geosint - Geopro 5.txt
+110. [Geosint] Geopro 2 (200) -> 110 - Geosint - Geopro 2.txt
+111. [Geosint] Geopro 3 (200) -> 111 - Geosint - Geopro 3.txt
+112. [Geosint] Island Boy (200) -> 112 - Geosint - Island Boy.txt
+113. [Geosint] Lake of Doom and Despair (200) -> 113 - Geosint - Lake of Doom and Despair.txt
+114. [Geosint] Apocalypse's Sister (300) -> 114 - Geosint - Apocalypse's Sister.txt
+115. [Geosint] Panorama Paradise (300) -> 115 - Geosint - Panorama Paradise.txt
+
+Sources
+-------
+- https://boroctf.com/challenges
+- https://boroctf.com/api/v1/challenges
+- https://boroctf.com/teams/524

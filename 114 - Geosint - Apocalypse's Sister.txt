@@ -1,0 +1,38 @@
+Apocalypse's Sister
+===================
+
+Category: Geosint
+Value: 300
+Challenge ID: 52
+Solves: 38
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Apocalypse's%20Sister-52
+API URL: https://boroctf.com/api/v1/challenges/52
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Description: Surely we can't run this back... right? Anyways all these images will lead you to the course of one very life-threatening structure.
+Find her sister's number.
+
+flag format: boroCTF{number}
+
+Files
+-----
+- Source: https://boroctf.com/files/50016f5ac88c7cb8af5e70a7c0aba8a3/planetpics.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\052 - Apocalypse's Sister\planetpics.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

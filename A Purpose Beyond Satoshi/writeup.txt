@@ -1,0 +1,30 @@
+Title: Satoshi's Secret
+Category: OSINT
+Flag: boroCTF{sidney_barber}
+
+Summary
+This was my last challenge and one of the hardest, in my opinion. To obtain the flag, you need to decode the brainfuck(or not), decode the bio, find the TikTok profile, the tape002 video, and find out what the name of the ARG is.
+
+First, we focus on the Brainfuck code. This is not important per se, but we'll get it out of the way. With the help of ChatGPT, this decodes to:
+Im glad we made an agreement, Satoshi. Keep the secret and you'll keep your soul. Just bring me the head of good ol' Sid and you're done.
+
+This coincides with Satoshi's response, saying "it is done."
+Now, let's focus on soulbinded's bio.
+
+Forever trapped in the silence, yet peace never reached.
+Flames crawling up the walls, yet warmth never prevails.
+7 days of agony, a tape that shouldn't exist.
+First        Words.com       Joined April 2026
+
+First is a location, Words.com as the website. That sounds awfully like First Words, right? Let's get the first words in the bio.
+ForeverFlames7
+Now that we have that crumb of information, let's pivot to the only account that soulbinded is following: @tiktok_us
+The reason that this chall took me so long is because I discarded this as a mistake, but it was a significant clue.
+
+We have to go on TikTok and search up the account ForeverFlames7.
+
+The account does exist, but TikTok cannot find it. To get an archive, we employ a cached profile viewer like https://ttviewer.net/.
+Upon further inspection, the account has only one video under the name "tape002". This is the exact same tape that the author is referring to in the chall prompt.
+This video consists of a girl running from a monster through some sort of hallways, but that's not important. What we care about is the last scene, where she steps on a piece of paper with the words "D.A.R.E Laboratory Log" written at the top. Reverse image searching this frame yields a connection to a film series called The Sidney Barber tapes, which connects to the "Sid" clue from the Brainfuck code.
+
+Flag: boroCTF{sidney_barber}

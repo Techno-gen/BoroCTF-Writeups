@@ -1,0 +1,35 @@
+Blackwall Protocol
+==================
+
+Category: Forensics
+Value: 200
+Challenge ID: 143
+Solves: 199
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Blackwall%20Protocol-143
+API URL: https://boroctf.com/api/v1/challenges/143
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We managed to intercept a raw, unfiltered braindance (BD) datastream right before the target crossed the Blackwall. The raw feed is heavily corrupted, but our netrunners swear there's something in the machine.
+
+Files
+-----
+- Source: https://boroctf.com/files/0c26bbfac6ff0244472ad13939ccc72c/blackwall_protocol_v2.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\143 - Blackwall Protocol\blackwall_protocol_v2.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

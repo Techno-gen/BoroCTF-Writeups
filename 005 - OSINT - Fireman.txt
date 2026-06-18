@@ -1,0 +1,40 @@
+Fireman
+=======
+
+Category: OSINT
+Value: 100
+Challenge ID: 139
+Solves: 220
+Challenge URL: https://boroctf.com/challenges#Fireman-139
+API URL: https://boroctf.com/api/v1/challenges/139
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Here's a real easy OSINT to give you guys a small break.
+
+Find the name of the man in this image. FULL name including middle initial.
+
+Then wrap it with boroCTF{} yourself.
+(Replace spaces with an underscore)
+Example flag: boroCTF{forever_f_flames}
+
+Files
+-----
+- Source: https://boroctf.com/files/78edbffd7a683d1d94f397a73863a109/fireman.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\139 - Fireman\fireman.jpg
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

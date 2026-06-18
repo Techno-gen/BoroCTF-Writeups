@@ -1,0 +1,34 @@
+Broken Promise
+==============
+
+Category: Misc
+Value: 200
+Challenge ID: 41
+Solves: 109
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Broken%20Promise-41
+API URL: https://boroctf.com/api/v1/challenges/41
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My friend David has been sobbing uncontrollably recently. He even changed his socials to "SandevastedMoonboy".
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

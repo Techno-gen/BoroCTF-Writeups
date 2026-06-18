@@ -1,0 +1,38 @@
+dotdotslashflagtxt
+==================
+
+Category: web
+Value: 100
+Challenge ID: 97
+Solves: 421
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#dotdotslashflagtxt-97
+API URL: https://boroctf.com/api/v1/challenges/97
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+https://0gil6sh8nlk1.boroctf.com/
+
+Description
+-----------
+A company left their internal document viewer exposed. It only shows approved files... or does it?
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

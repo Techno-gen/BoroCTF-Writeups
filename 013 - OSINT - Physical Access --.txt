@@ -1,0 +1,40 @@
+Physical Access >>
+==================
+
+Category: OSINT
+Value: 100
+Challenge ID: 107
+Solves: 358
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Physical%20Access%20%3E%3E-107
+API URL: https://boroctf.com/api/v1/challenges/107
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Help!! I forgot my password and got locked out of my Windows PC!
+
+I need to get back in, what can I do?!
+
+What is one of the two files I can exploit in order to get back into my PC?
+
+Flag format: boroCTF{explorer.exe}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

@@ -1,0 +1,34 @@
+Judgment of Solomon
+===================
+
+Category: Forensics
+Value: 300
+Challenge ID: 27
+Solves: 176
+Challenge URL: https://boroctf.com/challenges#Judgment%20of%20Solomon-27
+API URL: https://boroctf.com/api/v1/challenges/27
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+The birth of reconstruction.
+
+Files
+-----
+- Source: https://boroctf.com/files/98830efc5ba7a335d6e0b54a6252b408/code
+  Local: C:\Users\yevge\BoroCTF\_attachments\027 - Judgment of Solomon\code
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

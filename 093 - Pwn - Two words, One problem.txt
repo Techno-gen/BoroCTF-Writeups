@@ -1,0 +1,39 @@
+Two words, One problem
+======================
+
+Category: Pwn
+Value: 200
+Challenge ID: 55
+Solves: 208
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Two%20words%2C%20One%20problem-55
+API URL: https://boroctf.com/api/v1/challenges/55
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc 1xgu8bd1niap.boroctf.com 34069
+
+Description
+-----------
+The first time pwn solves problems.
+
+Files
+-----
+- Source: https://boroctf.com/files/b7fbe69caef69b5bfbb852739ff6a88c/chal.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\055 - Two words, One problem\chal.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

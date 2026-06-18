@@ -1,0 +1,26 @@
+﻿Title: What's even the POINT?
+Category: Misc
+Answer: TILES
+
+Summary
+Awful challenge. The clue says not to look at binaries, relations, trees, or bytes, and to just play a board game. The board game is Scrabble. The capitalized words in the prompt are used with Scrabble tile scores, and each score selects a letter from that same word.
+
+Prompt Words
+- ROOT
+- BINARIES
+- RELATIONAL
+- TREE
+- BYTES
+
+You have to score each bolded word using official scrabble rules and use that score to map to indices in the words to get letters:
+ROOT = 4 points -> 4th letter = T
+BINARIES = 10 points -> wraps to 2nd letter = I
+RELATIONAL = 10 points -> 10th letter = L
+TREE = 4 points -> 4th letter = E
+BYTES = 10 points -> wraps to 5th letter = S
+
+boroCTF{TILES}
+
+Key Findings
+- Board game: Scrabble
+- Extracted answer: TILES

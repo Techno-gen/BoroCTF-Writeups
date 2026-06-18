@@ -1,0 +1,35 @@
+Bike Rack
+=========
+
+Category: Rev
+Value: 200
+Challenge ID: 98
+Solves: 169
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Bike%20Rack-98
+API URL: https://boroctf.com/api/v1/challenges/98
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+OH NO!!! You forgot the PIN for your bike lock. Analyze the lock and figure out how to break it.
+
+Files
+-----
+- Source: https://boroctf.com/files/1d9b118e68506598210c0e865d418882/chal
+  Local: C:\Users\yevge\BoroCTF\_attachments\098 - Bike Rack\chal
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

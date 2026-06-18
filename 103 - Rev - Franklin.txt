@@ -1,0 +1,35 @@
+Franklin
+========
+
+Category: Rev
+Value: 200
+Challenge ID: 85
+Solves: 219
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Franklin-85
+API URL: https://boroctf.com/api/v1/challenges/85
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+A customized idea by me, about me, with me, for you.
+
+Files
+-----
+- Source: https://boroctf.com/files/b0ca0bbe839bf649526e96127f77d0eb/Franklin
+  Local: C:\Users\yevge\BoroCTF\_attachments\085 - Franklin\Franklin
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

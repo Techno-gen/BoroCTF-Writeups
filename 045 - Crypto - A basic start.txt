@@ -1,0 +1,37 @@
+A basic start
+=============
+
+Category: Crypto
+Value: 100
+Challenge ID: 29
+Solves: 520
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#A%20basic%20start-29
+API URL: https://boroctf.com/api/v1/challenges/29
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We, the Boro Cyber Division have been spying on the chats of a group of local hackers.
+We used to be able to decrypt their chats from base64 but they seemed to have changed their encoding. 
+Can you find out what they’re talking about now?
+
+Files
+-----
+- Source: https://boroctf.com/files/9fadd5cb26a0d0186acf13f6f8e2f247/chal.txt
+  Local: C:\Users\yevge\BoroCTF\_attachments\029 - A basic start\chal.txt
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

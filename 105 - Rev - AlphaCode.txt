@@ -1,0 +1,39 @@
+AlphaCode
+=========
+
+Category: Rev
+Value: 300
+Challenge ID: 35
+Solves: 113
+Author/Attribution: nulled
+Challenge URL: https://boroctf.com/challenges#AlphaCode-35
+API URL: https://boroctf.com/api/v1/challenges/35
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc po812e1n90q6.boroctf.com 58298
+
+Description
+-----------
+Can you decrypt the language and beat the gauntlet?
+
+Files
+-----
+- Source: https://boroctf.com/files/9433c15840e18c32395e6ec0adf1573e/challenge.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\035 - AlphaCode\challenge.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

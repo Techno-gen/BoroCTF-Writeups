@@ -1,0 +1,41 @@
+Lake of Doom and Despair
+========================
+
+Category: Geosint
+Value: 200
+Challenge ID: 135
+Solves: 11
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Lake%20of%20Doom%20and%20Despair-135
+API URL: https://boroctf.com/api/v1/challenges/135
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What a beautiful lake. I wish I had fins. I want swim now. Find lake name
+
+flag format: boroCTF{lake_name}
+
+Files
+-----
+- Source: https://boroctf.com/files/692b35f92c7bbe703a836d80cd1074fa/LakeOfDoom.jpg
+  Local: C:\Users\yevge\BoroCTF\_attachments\135 - Lake of Doom and Despair\LakeOfDoom.jpg
+- Source: https://boroctf.com/files/96979508831d5c931233e0075b330a28/LakePic2.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\135 - Lake of Doom and Despair\LakePic2.png
+- Source: https://boroctf.com/files/cff0bf2964ecb097aaa40b6d7d8a5204/shape.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\135 - Lake of Doom and Despair\shape.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

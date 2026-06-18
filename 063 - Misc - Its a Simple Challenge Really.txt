@@ -1,0 +1,36 @@
+Its a Simple Challenge Really
+=============================
+
+Category: Misc
+Value: 100
+Challenge ID: 151
+Solves: 154
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Its%20a%20Simple%20Challenge%20Really-151
+API URL: https://boroctf.com/api/v1/challenges/151
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Before our recent operation, criminals took four confidential unencrypted records. Law yields bad results around clever kidnappers, exposing their secret identities. Many people leave evidence under new digital environments. Review some captured online records early. Open source intelligence needs to carefully uncover real locations. You better review all coordinates, knowing experts triumph.
+
+flag format: boroCTF{flag}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

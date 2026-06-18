@@ -1,0 +1,42 @@
+Houston, we have a problem
+==========================
+
+Category: Pwn
+Value: 300
+Challenge ID: 19
+Solves: 79
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Houston%2C%20we%20have%20a%20problem-19
+API URL: https://boroctf.com/api/v1/challenges/19
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc zlcf0m425j5v.boroctf.com 31673
+
+Description
+-----------
+Comrade, we intercept American telemetry link. They say it's old "weather" satillite, rubbish I tell you. The Americans trust their logging system too much.
+Make it "lose its way" if you know what me saying. Just little tip to friend, make sure you always keep your END in mind. 
+
+#Note - I would create a copy of the file so you don't have to keep downloading it... Which one? You'll figure it out!
+
+Files
+-----
+- Source: https://boroctf.com/files/a11246a77bda462e6efedca4af3fccb9/KH1.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\019 - Houston, we have a problem\KH1.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

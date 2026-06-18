@@ -1,0 +1,37 @@
+Geopro 4
+========
+
+Category: Geosint
+Value: 100
+Challenge ID: 147
+Solves: 247
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Geopro%204-147
+API URL: https://boroctf.com/api/v1/challenges/147
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Find the streetname. :D
+
+flag format: boroCTF{street_name}
+
+Files
+-----
+- Source: https://boroctf.com/files/7be6eed847ce94f61170ae6173206412/street.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\147 - Geopro 4\street.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

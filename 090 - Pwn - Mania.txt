@@ -1,0 +1,40 @@
+Mania
+=====
+
+Category: Pwn
+Value: 200
+Challenge ID: 54
+Solves: 272
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Mania-54
+API URL: https://boroctf.com/api/v1/challenges/54
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Connection
+----------
+nc 0agn86asl3d2.boroctf.com 44996
+
+Description
+-----------
+Poor Joe has been doing binary exploitation challenges for too long and has gone mad. Can you help him re-adapt to society and have
+a real conversation?
+
+Files
+-----
+- Source: https://boroctf.com/files/e75c8ecc67ecb4154a9e2d312e4186d7/Mania.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\054 - Mania\Mania.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

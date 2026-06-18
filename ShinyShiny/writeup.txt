@@ -1,0 +1,22 @@
+﻿Title: Shiny
+Category: OSINT
+Flag: boroCTF{4/6/2026}
+
+Summary
+The challenge asked for the date of mdhdlimv2. The solved thread corrected course and used an archived ShinyWR link that pointed to a YouTube video titled mdhdlimv2.
+
+The "140 years, not hours" clue matches a very famous youtube video by a youtube channel named shinywr:
+https://www.youtube.com/watch?v=ny2S_jYomUw&t=19367s
+
+The title of the video even has the same   symbol included in the challenge description!
+
+From there, we explore the channel further.
+In the description, we find a web archive link labeled "5,124,095,576,030 HOURS IN 1 V" that brings us here:
+https://web.archive.org/web/20260406172106/https://www.youtube.com/watch?v=bfectqmOr8U
+
+The video is titled exactly mdhdlimv2.
+Looking at the date, we can see it was posted 6 Apr 2026.
+
+Key Findings
+- Date: 4/6/2026
+- Final flag: boroCTF{4/6/2026}

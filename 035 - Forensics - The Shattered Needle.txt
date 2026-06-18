@@ -1,0 +1,35 @@
+The Shattered Needle
+====================
+
+Category: Forensics
+Value: 100
+Challenge ID: 76
+Solves: 311
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#The%20Shattered%20Needle-76
+API URL: https://boroctf.com/api/v1/challenges/76
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Man I hate haystacks. Where is my needle!!!
+
+Files
+-----
+- Source: https://boroctf.com/files/968d4eeb034028f251b2377cd8ecdc10/the_haystack.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\076 - The Shattered Needle\the_haystack.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

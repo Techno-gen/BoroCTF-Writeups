@@ -1,0 +1,36 @@
+Not the Flag
+============
+
+Category: Crypto
+Value: 100
+Challenge ID: 65
+Solves: 507
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Not%20the%20Flag-65
+API URL: https://boroctf.com/api/v1/challenges/65
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Challenge: So is this not the flag? If its not not, then what else?
+
+`9d 90 8d 90 bc ab b9 84 8b 97 ce db a0 96 8c a0 91 cf 8b a0 91 90 8b a0 8b 97 cc a0 99 93 bf 98 82`
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

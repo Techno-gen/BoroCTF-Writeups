@@ -1,0 +1,38 @@
+George Orwell
+=============
+
+Category: Rev
+Value: 100
+Challenge ID: 84
+Solves: 375
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#George%20Orwell-84
+API URL: https://boroctf.com/api/v1/challenges/84
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Big Brother says:
+We're always watching. Your words, no matter how silent, will be heard.
+
+**Note** - This challenge simulates real malware but contains **NO** malicious payloads.
+
+Files
+-----
+- Source: https://boroctf.com/files/c5d9407ccc92a743824106f9bb7f6afd/big_brother
+  Local: C:\Users\yevge\BoroCTF\_attachments\084 - George Orwell\big_brother
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

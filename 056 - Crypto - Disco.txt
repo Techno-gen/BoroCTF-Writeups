@@ -1,0 +1,35 @@
+Disco
+=====
+
+Category: Crypto
+Value: 200
+Challenge ID: 81
+Solves: 397
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Disco-81
+API URL: https://boroctf.com/api/v1/challenges/81
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+The hexagonal colors are simply beautiful.
+
+Files
+-----
+- Source: https://boroctf.com/files/dd2d0f3c03643cc2ab70656999dc08c1/dance.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\081 - Disco\dance.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

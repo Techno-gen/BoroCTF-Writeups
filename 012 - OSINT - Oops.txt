@@ -1,0 +1,38 @@
+Oops...
+=======
+
+Category: OSINT
+Value: 100
+Challenge ID: 108
+Solves: 330
+Author/Attribution: Solarity
+Challenge URL: https://boroctf.com/challenges#Oops...-108
+API URL: https://boroctf.com/api/v1/challenges/108
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+My friend (again) was telling me a story about how around two years ago, he may or may not have accidentally pushed a change to a file that disrupted millions of systems at an unprecedented scale.
+
+What was the general name of the configuration file that he modified that broke everything?
+
+Flag Format: boroCTF{file_name_67}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

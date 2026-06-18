@@ -1,0 +1,36 @@
+Far Far Away
+============
+
+Category: OSINT
+Value: 100
+Challenge ID: 100
+Solves: 58
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Far%20Far%20Away-100
+API URL: https://boroctf.com/api/v1/challenges/100
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Vikings 1 and 2 form a nice triangle with the third point of the triangle. No, the third point isn't called Viking 3.
+
+What is the name of the third point of the triangle?
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

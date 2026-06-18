@@ -1,0 +1,37 @@
+Silent Sentinel
+===============
+
+Category: Forensics
+Value: 100
+Challenge ID: 101
+Solves: 298
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Silent%20Sentinel-101
+API URL: https://boroctf.com/api/v1/challenges/101
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+We intercepted a packet capture containing a mix of modern station telemetry and an anomalous TCP file transfer. Analysts believe the rogue uplink successfully recovered an image of an iconic historical spacecraft where the crime must have taken place originally.
+
+> Flag Format: boroCTF{satellite_name_with_underscores}
+
+Files
+-----
+- Source: https://boroctf.com/files/c9265da0e1b86c2d5041e2e08bf0545f/space.pcap
+  Local: C:\Users\yevge\BoroCTF\_attachments\101 - Silent Sentinel\space.pcap
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

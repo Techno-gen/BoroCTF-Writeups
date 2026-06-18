@@ -1,0 +1,35 @@
+Listen Close
+============
+
+Category: Forensics
+Value: 200
+Challenge ID: 102
+Solves: 180
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Listen%20Close-102
+API URL: https://boroctf.com/api/v1/challenges/102
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Those who listen closely can read between the lines. It is not always what is being said but the meanings behind it.
+
+Files
+-----
+- Source: https://boroctf.com/files/0ab0631cbc9bbd41b7f18b0f0e844a44/chal.wav
+  Local: C:\Users\yevge\BoroCTF\_attachments\102 - Listen Close\chal.wav
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

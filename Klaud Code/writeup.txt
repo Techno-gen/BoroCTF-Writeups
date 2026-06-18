@@ -1,0 +1,27 @@
+﻿Title: Klaud Code
+Category: web
+
+Summary:
+finding the flag involved exploring the site, finding the promo video with the 20% OFF coupon, and exploiting a vuln in the promo code accepting code.
+
+This challenge leads you down a LOT of false passages. For one, the JWT is completely forged, almost like a target, talking to the bot reveals a completely useless /admin directory, and the workspaces + their respective API calls have zero use to the challenge.
+
+What you had to do was go to the about page and find a promo video:
+https://www.youtube.com/watch?v=vDFLh16yJL8
+
+At the end of the video, you will find a promo code:
+KLAUD20OFF
+
+Using this on the website would net you 20% off the final price, as stated, but you cannot use it again.
+
+Or can you?
+
+Trying different variations of this code, but with a modified case each time, would trick the system into thinking it's a new, unused code:
+KLAUD20OFF
+klaud20off
+KLAUD20off
+klaud20OFF
+KlAuD20OfF
+
+This will reveal the flag:
+(infra got taken down and I forgot the flag, just trust me it worked)

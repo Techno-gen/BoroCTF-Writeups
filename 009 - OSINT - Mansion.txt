@@ -1,0 +1,37 @@
+Mansion
+=======
+
+Category: OSINT
+Value: 100
+Challenge ID: 121
+Solves: 225
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#Mansion-121
+API URL: https://boroctf.com/api/v1/challenges/121
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Who made this build?
+
+flag format: boroCTF{build_maker}
+
+Files
+-----
+- Source: https://boroctf.com/files/ead021beb494341daa6345c562d1ddfa/Mansion.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\121 - Mansion\Mansion.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

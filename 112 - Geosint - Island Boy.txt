@@ -1,0 +1,43 @@
+Island Boy
+==========
+
+Category: Geosint
+Value: 200
+Challenge ID: 142
+Solves: 46
+Author/Attribution: ForeverFlames
+Max attempts: 5
+Challenge URL: https://boroctf.com/challenges#Island%20Boy-142
+API URL: https://boroctf.com/api/v1/challenges/142
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Sooo uhh..... You know the deal.
+
+What Island am I on?
+
+flag format: boroCTF{island_name}
+
+**(NOTE: ONLY 5 GUESSES BE CAREFUL)**
+**Do not use your guesses up then beg for more.**
+
+Files
+-----
+- Source: https://boroctf.com/files/c190ba5b580022a6754aeefdd5ca0ab7/Island.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\142 - Island Boy\Island.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

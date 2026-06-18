@@ -1,0 +1,44 @@
+Panorama Paradise
+=================
+
+Category: Geosint
+Value: 300
+Challenge ID: 132
+Solves: 57
+Author/Attribution: ForeverFlames
+Max attempts: 50
+Challenge URL: https://boroctf.com/challenges#Panorama%20Paradise-132
+API URL: https://boroctf.com/api/v1/challenges/132
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+You may be pretty good at geosint. But are ya good enough?
+
+Find the country in every image, image 1 to image 10. And in the order that they are numbered, order it like that in the flag. Also seperate EVERY space with an underscore, 
+
+Seperate each and every space with an **underscore** (so United States of America, would be United_States_of_America) and each COUNTRY gets seperated with a **comma**.
+
+Example flag: boroCTF{forever_flames,shiny,satoshi,this_is_not_the_flag}
+
+**(NOTE: ONLY 50 MAX ATTEMPTS)**
+
+Files
+-----
+- Source: https://boroctf.com/files/9651859c304d00a5cec2ae4cfa0f2dc6/panorama.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\132 - Panorama Paradise\panorama.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

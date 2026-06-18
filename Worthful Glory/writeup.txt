@@ -1,0 +1,20 @@
+﻿Title: Worthful Glory
+Category: Misc
+Flag: boroctf{pixels_and_passwords_dont_mix}
+
+Summary
+The provided football field JPEG was intentionally damaged, then used as a steghide carrier. After repairing the image header, stegseek recovered the steghide password. The extracted payload was not actually a log file: it was an encrypted ZIP, and the ZIP password was the sports clue brute-forced from the prompt.
+
+Steps
+1. Inspect the provided file, football_field.jpg. The JPEG signature was corrupted: the first two bytes were 67 67 instead of FF D8.
+2. Repair the JPEG SOI header to FF D8 so image/stego tools can parse it correctly.
+3. Run stegseek/steghide against the repaired image. The cracked steghide passphrase was 3P0INTERBABY, with a zero in P0INTER.
+4. Extract the hidden file. The extracted file looked like a log by name, but its contents were an encrypted ZIP.
+5. Use the clue from the prompt, "field goal on game day," to try football as the ZIP password.
+6. Open the ZIP with password football and read flag.txt.
+
+Key Findings
+- Corrupt header: 67 67 -> FF D8
+- Steghide password uncovered in the image: 3P0INTERBABY
+- ZIP password: football
+- Final flag: boroctf{pixels_and_passwords_dont_mix}

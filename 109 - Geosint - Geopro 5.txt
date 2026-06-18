@@ -1,0 +1,40 @@
+Geopro 5
+========
+
+Category: Geosint
+Value: 100
+Challenge ID: 149
+Solves: 244
+Author/Attribution: ForeverFlames
+Max attempts: 5
+Challenge URL: https://boroctf.com/challenges#Geopro%205-149
+API URL: https://boroctf.com/api/v1/challenges/149
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+What country am I in?
+
+Note: **ONLY 5 GUESSES**
+
+flag format: boroCTF{country}
+
+Files
+-----
+- Source: https://boroctf.com/files/be2725039a5cc640923507d8542e7202/Country.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\149 - Geopro 5\Country.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

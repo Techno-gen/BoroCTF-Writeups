@@ -1,0 +1,35 @@
+64 is life
+==========
+
+Category: Misc
+Value: 200
+Challenge ID: 39
+Solves: 341
+Author/Attribution: ForeverFlames
+Challenge URL: https://boroctf.com/challenges#64%20is%20life-39
+API URL: https://boroctf.com/api/v1/challenges/39
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Truth, broken into sixty-four.
+
+Files
+-----
+- Source: https://boroctf.com/files/3ef26b33c8567ff13cbd36e7adcdeed4/64.zip
+  Local: C:\Users\yevge\BoroCTF\_attachments\039 - 64 is life\64.zip
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

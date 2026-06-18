@@ -1,0 +1,46 @@
+Anatomically Incorrect
+======================
+
+Category: Crypto
+Value: 200
+Challenge ID: 30
+Solves: 101
+Author/Attribution: Franklin
+Challenge URL: https://boroctf.com/challenges#Anatomically%20Incorrect-30
+API URL: https://boroctf.com/api/v1/challenges/30
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Hey, I found this random assortment of characters on the ground in class.
+What does it mean?
+
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4 1s2 2s2 2p6 3s2 3p6 1s2 2s2 2p6 3s2 3p6 
+4s2 3d3 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2 1s2 2s2 2p6 3s2 3p6 4s2 
+3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f13 1s2 2s2 2p6 3s2 3p4 1s2 
+2s2 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 
+5f14 6d9 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 
+7s2 5f14 6d10 7p3 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6
+
+This challenge does not contain boroCTF in the solution. Please
+put in the format boroCTF{ExAmPlE}
+
+Files
+-----
+- Source: https://boroctf.com/files/b50c61667474922bce038a46e7aa9bf7/table.png
+  Local: C:\Users\yevge\BoroCTF\_attachments\030 - Anatomically Incorrect\table.png
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:

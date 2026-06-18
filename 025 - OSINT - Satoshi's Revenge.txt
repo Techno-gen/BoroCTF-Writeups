@@ -1,0 +1,43 @@
+Satoshi's Revenge
+=================
+
+Category: OSINT
+Value: 300
+Challenge ID: 150
+Solves: 12
+Author/Attribution: nulled this time not ForeverFlames so this one is definitely nicer (cap ~ foreverflames)
+Challenge URL: https://boroctf.com/challenges#Satoshi's%20Revenge-150
+API URL: https://boroctf.com/api/v1/challenges/150
+Detail status: ok
+Discovered from: api/v1/challenges
+
+Description
+-----------
+Satoshi is back for revenge... 
+
+Through a cryptic message he said the following
+> My soul is empty, my name too. 1228 is where I lay, yet I keep on pushing.
+
+We have no clue what this means, but we are scared.
+
+**THIS CHALLENGE HAS NO RELATION TO THE OTHER CHALLENGES, JUST SHARES A NAME**
+
+Flag format: boroCTF{...}
+
+Files
+-----
+No files listed.
+
+Hints
+-----
+No hints listed.
+
+Writeup Notes
+-------------
+Approach:
+
+Findings:
+
+Flag:
+
+References:
