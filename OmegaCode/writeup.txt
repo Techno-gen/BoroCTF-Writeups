@@ -42,4 +42,6 @@ zz do X
 
 Instead of writing the whole OmegaCode program and pulling my hair out, I wrote a python generator that emitted valid OmegaCode and patched jump constants after it knew where each label went.
 
+The fuzzed winning program was generate_solver([6,9]), running it against option 2 would return the flag.
+
 Final flag: boroCTF{greek_alphabet_is_over_i_promise_on_franklin}
