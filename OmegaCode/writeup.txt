@@ -40,8 +40,8 @@ The generated OmegaCode did that by comparing the read value to "EOF", turning t
 target = (is_eof * jump_to_short_output) + continue_location
 zz do X
 
-Instead of writing the whole OmegaCode program and pulling my hair out, I wrote a python generator that emitted valid OmegaCode and patched jump constants after it knew where each label went.
+Instead of writing the whole OmegaCode program and pulling my hair out, I wrote a python generator(included in this folder) that emitted valid OmegaCode and patched jump constants after it knew where each label went.
 
-The fuzzed winning program was generate_solver([6,9]), running it against option 2 would return the flag.
+The fuzzed winning program input was generate_solver([6,9]), running it against option 2 would return the flag.
 
 Final flag: boroCTF{greek_alphabet_is_over_i_promise_on_franklin}

@@ -1,0 +1,48 @@
+Title: Player 2
+Category: Crypto
+Flag: boroCTF{controlledinputs}
+
+Summary
+This was one of my favorites this CTF, just a fun challenge to solve. This challenge consisted of figuring out the Petscop hint from Mario's movement(something I did not do), decoding the inputs using a script running OpenCV, and parsing them using the P2-to-TALK table to form an acrostic and solving the challenge.
+
+I initially looked for clues in the video itself, maybe the text had been tampered with, or the glitches decoded a message, or maybe there was some underlying frequency that spelled a message. After downloading the video and fuzzing everything I could think of, I transitioned to the controller on the screen. Why would they put that there?
+
+I figured that the controller inputs had to match a code or language, but I wasn't initially sure what it was. After a bit of research on how text could be encoded in inputs, I eventually landed on the Petscop P2-to-TALK system (https://petscop.fandom.com/wiki/P2_to_TALK) that could map PlayStation controller buttons into a phonetic table(I discovered after comp ended that alternatively you could've watched Mario's movement after the glitches, he spelled out Petscop). Immediately after making this discovery, I created a python script to divide up the footage into individual frames and use OpenCV to detect button presses. The script is included in the same folder. While I tried to clean it up the best that I could, the code might still need work.
+
+After some trouble with pixel mappings and some human intervention, I had a clean enough text file containing every word detected in the video:
+
+behind
+you
+of
+course
+right
+one
+check
+take
+it
+failure
+
+As you read, you will begin to notice an outline of an acrostic(ignoring all of the words lost/gained in translation): boroctf. Maybe this was just noise, but it was my first clue.
+
+care
+over there
+no
+time
+receive
+old
+live
+left
+even
+death
+inside
+next
+pause
+under there
+thanks
+stop
+
+This block of words was a perfect acrostic, with the beginning of each word spelling out a phrase:
+
+controlledinputs
+
+Flag: boroCTF{controlledinputs}
